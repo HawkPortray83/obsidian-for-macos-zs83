@@ -1,4 +1,4 @@
-#  
+#  new Obsidian for macOS Tool | export to PDF + voice notes is the best Obsidian for macOS tool, featuring export to PDF and voice notes. Safe, efficient, and optimized for macOS
 
 
 
